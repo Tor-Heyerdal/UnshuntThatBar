@@ -1,0 +1,31 @@
+[
+	{
+		"tosversion" : "20200619",
+		"name" : "Unshunt That Bar",
+		"file" : "unshuntthatbar",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.0",
+		"releaseTag" : "v1.0.0",
+		"unicode" : "⚗",
+		"description" : "Realigns the top quickslot bar when playing in mouse mode or keyboard mode so that it lines up properly with the slant of the other three quickslot bars.",
+		"tags" : [
+			"UI",
+			"interface",
+			"user interface",
+			"quickslot",
+			"quickslots",
+			"top",
+			"upper",
+			"bar",
+			"bars",
+			"align",
+			"realign",
+			"shunt",
+			"shunted",
+			"unshunt",
+			"move",
+			"relocate",
+			"adjust"
+		]
+	}
+]
